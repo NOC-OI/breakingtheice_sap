@@ -1,0 +1,21 @@
+time: Month represented by the record. The date corresponds to the first day of each month.
+
+mean: Mean sea ice age, in years, calculated from all available observations within the month. Rounded to three decimal places.
+
+std: Standard deviation of sea ice age, in years, calculated from all available observations within the month. Rounded to three decimal places.
+
+minimum: Minimum sea ice age, in years, observed during the month.
+
+maximum: Maximum sea ice age, in years, observed during the month.
+
+area_le_0_km2: Area, in square kilometers (km²), where sea ice age values ​​are equal to or less than 0 during the month (no ice). Rounded to the nearest whole km².
+
+area_gt_0_le_1_km2: Area, in square kilometres (km²), where sea ice age values are greater than 0 and less than or equal to 1 year during the month. Rounded to the nearest whole km².
+
+area_gt_1_le_2_km2: Area, in square kilometres (km²), where sea ice age values are greater than 1 and less than or equal to 2 years during the month. Rounded to the nearest whole km².
+
+area_gt_2_le_3_km2: Area, in square kilometres (km²), where sea ice age values are greater than 2 and less than or equal to 3 years during the month. Rounded to the nearest whole km².
+
+area_gt_3_le_4_km2: Area, in square kilometres (km²), where sea ice age values are greater than 3 and less than or equal to 4 years during the month. Rounded to the nearest whole km².
+
+area_gt_4_km2: Area, in square kilometres (km²), where sea ice age values are greater than 4 years during the month. Rounded to the nearest whole km².
