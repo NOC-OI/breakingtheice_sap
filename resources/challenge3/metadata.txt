@@ -1,4 +1,4 @@
-time: Month represented by the record. The date corresponds to the first day of each month.
+time: The month and year associated with this record. Always formatted as the first day of the month.
 
 mean: Mean sea ice age, in years, calculated from all available observations within the month. Rounded to three decimal places.
 
