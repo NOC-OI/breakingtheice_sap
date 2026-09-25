@@ -485,11 +485,6 @@ export function MapPage({
         legendLabels={legendLabels}
         legendUnitLabel={activeDatasetConfig.legendUnitLabel}
       />
-      <StartQuestButton
-        hasQuestStarted={hasQuestStarted}
-        isStartButtonPressing={isStartButtonPressing}
-        onClick={handleStartOrResumeClick}
-      />
       <TimeSlider
         yearIndex={yearIndex}
         datasetMode={datasetMode}
